@@ -25,10 +25,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device specific configs.
-$(call inherit-product, device/realme/RMX2121/device.mk)
+$(call inherit-product, device/OPPO/PDSM00/device.mk)
 
-PRODUCT_DEVICE := RMX2121
-PRODUCT_NAME := twrp_RMX2121
+PRODUCT_DEVICE := PDSM00
+PRODUCT_NAME := twrp_PDSM00
 PRODUCT_BRAND := OPPO
 PRODUCT_MODEL := Reno5 Pro
 PRODUCT_MANUFACTURER := OPPO

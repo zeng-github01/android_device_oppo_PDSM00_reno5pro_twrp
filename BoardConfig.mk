@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/realme/RMX2121
+DEVICE_PATH := device/OPPO/PDSM00
 
 ALLOW_MISSING_DEPENDENCIES := true
 
@@ -130,7 +130,6 @@ PLATFORM_VERSION := 13
 TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_CRYPTO_FBE := true
 TW_INCLUDE_FBE_METADATA_DECRYPT := true
-TW_USE_FSCRYPT_POLICY := 1
 
 # Additional binaries & libraries needed for recovery
 TARGET_RECOVERY_DEVICE_MODULES += \

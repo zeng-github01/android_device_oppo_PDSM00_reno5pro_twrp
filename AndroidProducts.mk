@@ -17,6 +17,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_RMX2121.mk
+     $(LOCAL_DIR)/twrp_PDSM00.mk
 
-COMMON_LUNCH_CHOICES := twrp_RMX2121-eng
+COMMON_LUNCH_CHOICES := twrp_PDSM00-eng
