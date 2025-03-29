@@ -4,7 +4,6 @@
 
 | Basic | Spec Sheet |
 |---|---|
-| Display | 6.55-inch Super AMOLED display |
 | Processor | MediaTek Dimensity 1000 + |
 | RAM | 8GB |
 | Storage | 128GB/256GB |
