@@ -1,4 +1,4 @@
-# TWRP device tree for Realme X7 Pro
+# TWRP device tree for Reno 5 Pro
 
 # Specifications
 
